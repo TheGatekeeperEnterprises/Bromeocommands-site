@@ -1,1 +1,3 @@
 node_modules
+# Build output: Docker builds the site itself
+.next
